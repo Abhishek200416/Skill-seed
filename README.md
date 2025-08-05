@@ -1,6 +1,6 @@
 # Skill-Seed
 
-Project Skillseed: Nurturing So Skills in Young Minds is a student-led community service ini a ve 
+Project Skillseed: Nurturing So Skills in Young Minds is a student-led community service initiative 
 focused on equipping school students with essen al so skills such as communica on, leadership, 
 cri cal thinking, and collabora on. Acknowledging the gap in tradi onal educa on systems when it 
 comes to holis c personality development, the project combines interac ve workshops with ac vity
