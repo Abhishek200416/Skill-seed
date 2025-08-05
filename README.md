@@ -1,11 +1,3 @@
 # Skill-Seed
 
-Project Skillseed: Nurturing So Skills in Young Minds is a student-led community service initiative 
-focused on equipping school students with essen al so skills such as communica on, leadership, 
-cri cal thinking, and collabora on. Acknowledging the gap in tradi onal educa on systems when it 
-comes to holis c personality development, the project combines interac ve workshops with ac vity
-based learning to create a las ng impact. As part of the ini a ve’s future vision, we are also working 
-on developing a user-friendly mobile applica on that will help students learn and prac ce these skills 
-at their own pace. The app is planned to include features such as skill-based modules, quizzes, real
-life scenario simula ons, and progress tracking to ensure con nuous and engaging learning. Project 
-Skillseed strives to nurture confident, well-rounded individuals ready to face real-world challenges. 
+Project Skillseed: Nurturing Soft Skills in Young Minds is a student-led community service initiative focused on equipping school students with essential soft skills such as communication, leadership, critical thinking, and collaboration. Acknowledging the gap in traditional education systems when it comes to holistic personality development, the project combines interactive workshops with activity-based learning to create a lasting impact. As part of the initiative’s future vision, we are also working on developing a user-friendly mobile application that will help students learn and practice these skills at their own pace. The app is planned to include features such as skill-based modules, quizzes, real-life scenario simulations, and progress tracking to ensure continuous and engaging learning. Project Skillseed strives to nurture confident, well-rounded individuals ready to face real-world challenges.
