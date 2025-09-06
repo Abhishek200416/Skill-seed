@@ -1,0 +1,39 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "live_sessions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "category", "order": "ASCENDING" },
+        { "fieldPath": "startAt", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "live_sessions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "category", "order": "ASCENDING" },
+        { "fieldPath": "startAt", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "live_sessions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "teacherId", "order": "ASCENDING" },
+        { "fieldPath": "category", "order": "ASCENDING" },
+        { "fieldPath": "startAt", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "live_sessions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "teacherId", "order": "ASCENDING" },
+        { "fieldPath": "category", "order": "ASCENDING" },
+        { "fieldPath": "startAt", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

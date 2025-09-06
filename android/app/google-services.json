@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747241245521",
+    "firebase_url": "https://skillseed-be957-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "skillseed-be957",
+    "storage_bucket": "skillseed-be957.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747241245521:android:2a3264b5770afc79f3e170",
+        "android_client_info": {
+          "package_name": "com.example.skillseed_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747241245521-goj7rmeva3vnigub6fihpfm61dohm4sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU7c_4B5yYd4ANni63h81RoNR7Bx1puDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747241245521-goj7rmeva3vnigub6fihpfm61dohm4sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
